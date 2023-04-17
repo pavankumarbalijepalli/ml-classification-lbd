@@ -1,1 +1,1 @@
-# ml-regression-lbd
+# ml-classification-lbd
